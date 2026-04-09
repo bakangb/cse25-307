@@ -53,12 +53,6 @@ This responsive website showcases the brand’s collections, sustainability effo
 
 ---
 
-### 🚀 Deployment
-This site can be deployed easily using:  
-- **GitHub Pages** → Free hosting directly from your repository.  
-- **Netlify / Vercel** → Quick deployment with custom domains and HTTPS.  
----
-
  Project Structure
 `index.html` → Main webpage structure  
  `style.css` → Custom styles  
@@ -80,14 +74,6 @@ Technologies Used
  Bootstrap 5  
  CSS (style.css)  
  JavaScript (Bootstrap Bundle)  
-
-
- How to Run
- Download or clone the project files.  
- Open `index.html` in a browser.  
- Ensure `style.css` and `images/profile.jpg` are in the correct paths. 
-
-
 
  Author
 **Basiami Bakang**  
